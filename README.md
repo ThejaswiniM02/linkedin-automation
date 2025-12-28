@@ -2,8 +2,13 @@
 
 ## Overview
 This repository contains a scoped proof-of-concept demonstrating browser automation, human-like behavior simulation, and basic anti-detection techniques using Go and the Rod library.
+⚠️ Disclaimer (Important)
 
-Due to overlapping university examinations, this implementation focuses on architecture, stealth fundamentals, and extensibility rather than a full production-ready automation system.
+This project is a technical proof-of-concept built strictly for educational and evaluation purposes.
+It demonstrates browser automation architecture, stealth techniques, and human-like interaction patterns.
+
+Automating LinkedIn violates their Terms of Service.
+This project must not be used on real accounts or in production.
 
 ## Features Implemented
 - Go-based modular architecture
